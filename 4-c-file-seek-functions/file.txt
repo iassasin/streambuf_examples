@@ -1,0 +1,3 @@
+Habrahabr is a Russian collaborative blog with elements of social network about IT, Computer science and anything related to the Internet, owned by Thematic Media. Habrahabr was founded in June 2006.
+Habrahabr often compared to other technology sites, such as Engadget or Hacker News.
+In 2007, Habrahabr won in two nominations at the ROTOR: Discovery of the Year and Online Community of the Year. Also, the website's author, Denis Kryuchkov, won in nomination Producer of the Year. In 2009, the website again won in nomination Online Community of the Year.
